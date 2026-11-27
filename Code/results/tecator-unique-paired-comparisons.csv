@@ -1,0 +1,7 @@
+method,reference,rmse_difference,lower_95,upper_95
+PLS repeated small holdout,PLS fixed five-fold,0.0,0.0,0.0
+Ridge fixed five-fold,PLS fixed five-fold,-0.09989690924287142,-0.2298807612688517,-0.00014160360892896177
+Ridge fixed five-fold,PLS repeated small holdout,-0.09989690924287142,-0.2298807612688517,-0.00014160360892896177
+PLS leave-one-out,PLS fixed five-fold,0.0,0.0,0.0
+PLS leave-one-out,PLS repeated small holdout,0.0,0.0,0.0
+PLS leave-one-out,Ridge fixed five-fold,0.09989690924287142,0.0001416036089289379,0.2298807612688517
